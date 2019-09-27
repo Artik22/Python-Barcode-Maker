@@ -3,7 +3,7 @@ This code asks the user for a barcode, checks if the barcode is valid, and if so
 
 ## Getting Started
 
-You will need to run this using python 2.7 in order to use the PIL module. All you need to do to run this code is to download upc.py and barcode_maker.py.Run barcode_maker.py and enter a barcode to execute the program.
+All you need to do to run this code is to download upc.py and barcode_maker.py.Run barcode_maker.py and enter a barcode to execute the program.
 
 ## Authors
 
